@@ -1,0 +1,15 @@
+D:\C#II\Final\SmallDatabase\FindCustomer\bin\Debug\FindCustomer.exe.config
+D:\C#II\Final\SmallDatabase\FindCustomer\bin\Debug\FindCustomer.exe
+D:\C#II\Final\SmallDatabase\FindCustomer\bin\Debug\FindCustomer.pdb
+D:\C#II\Final\SmallDatabase\FindCustomer\bin\Debug\EntityFramework.dll
+D:\C#II\Final\SmallDatabase\FindCustomer\bin\Debug\EntityFramework.SqlServer.dll
+D:\C#II\Final\SmallDatabase\FindCustomer\bin\Debug\SmallDatabase.dll
+D:\C#II\Final\SmallDatabase\FindCustomer\bin\Debug\SmallDatabase.pdb
+D:\C#II\Final\SmallDatabase\FindCustomer\bin\Debug\EntityFramework.xml
+D:\C#II\Final\SmallDatabase\FindCustomer\bin\Debug\EntityFramework.SqlServer.xml
+D:\C#II\Final\SmallDatabase\FindCustomer\obj\Debug\FindCustomer.Properties.Resources.resources
+D:\C#II\Final\SmallDatabase\FindCustomer\obj\Debug\FindCustomer.SearchCustomer.resources
+D:\C#II\Final\SmallDatabase\FindCustomer\obj\Debug\FindCustomer.csproj.GenerateResource.Cache
+D:\C#II\Final\SmallDatabase\FindCustomer\obj\Debug\FindCustomer.exe
+D:\C#II\Final\SmallDatabase\FindCustomer\obj\Debug\FindCustomer.pdb
+D:\C#II\Final\SmallDatabase\FindCustomer\obj\Debug\FindCustomer.csprojResolveAssemblyReference.cache

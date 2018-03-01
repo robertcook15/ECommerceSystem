@@ -1,0 +1,17 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# SQL Server Management Studio Solution File, Format Version 12.00
+Project("{4F2E2C19-372F-40D8-9FA7-9D2138C6997A}") = "SmallDatabase", "..\..\..\ADO.NET\C# II Programming projects\SmallDatabase\SmallDatabase\SmallDatabase.ssmssqlproj", "{9EAC9C50-3265-44A7-8A91-C1491269547F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Default|Default = Default|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9EAC9C50-3265-44A7-8A91-C1491269547F}.Default|Default.ActiveCfg = Default
+		{1480D634-20E4-47E3-9BAB-20308F3B572F}.Default|Default.ActiveCfg = Default
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

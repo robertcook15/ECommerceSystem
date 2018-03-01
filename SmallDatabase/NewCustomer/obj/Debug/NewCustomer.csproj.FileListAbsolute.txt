@@ -1,0 +1,15 @@
+D:\C#II\Final\SmallDatabase\NewCustomer\bin\Debug\NewCustomer.exe.config
+D:\C#II\Final\SmallDatabase\NewCustomer\bin\Debug\NewCustomer.exe
+D:\C#II\Final\SmallDatabase\NewCustomer\bin\Debug\NewCustomer.pdb
+D:\C#II\Final\SmallDatabase\NewCustomer\bin\Debug\EntityFramework.dll
+D:\C#II\Final\SmallDatabase\NewCustomer\bin\Debug\EntityFramework.SqlServer.dll
+D:\C#II\Final\SmallDatabase\NewCustomer\bin\Debug\SmallDatabase.dll
+D:\C#II\Final\SmallDatabase\NewCustomer\bin\Debug\SmallDatabase.pdb
+D:\C#II\Final\SmallDatabase\NewCustomer\bin\Debug\EntityFramework.xml
+D:\C#II\Final\SmallDatabase\NewCustomer\bin\Debug\EntityFramework.SqlServer.xml
+D:\C#II\Final\SmallDatabase\NewCustomer\obj\Debug\NewCustomer.csprojResolveAssemblyReference.cache
+D:\C#II\Final\SmallDatabase\NewCustomer\obj\Debug\NewCustomer.ManageCustomers.resources
+D:\C#II\Final\SmallDatabase\NewCustomer\obj\Debug\NewCustomer.Properties.Resources.resources
+D:\C#II\Final\SmallDatabase\NewCustomer\obj\Debug\NewCustomer.csproj.GenerateResource.Cache
+D:\C#II\Final\SmallDatabase\NewCustomer\obj\Debug\NewCustomer.exe
+D:\C#II\Final\SmallDatabase\NewCustomer\obj\Debug\NewCustomer.pdb

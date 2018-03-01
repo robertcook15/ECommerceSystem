@@ -1,0 +1,10 @@
+D:\C#II\Final\SmallDatabase\SmallDatabase\bin\Debug\SmallDatabase.dll.config
+D:\C#II\Final\SmallDatabase\SmallDatabase\bin\Debug\SmallDatabase.dll
+D:\C#II\Final\SmallDatabase\SmallDatabase\bin\Debug\SmallDatabase.pdb
+D:\C#II\Final\SmallDatabase\SmallDatabase\bin\Debug\EntityFramework.dll
+D:\C#II\Final\SmallDatabase\SmallDatabase\bin\Debug\EntityFramework.SqlServer.dll
+D:\C#II\Final\SmallDatabase\SmallDatabase\bin\Debug\EntityFramework.xml
+D:\C#II\Final\SmallDatabase\SmallDatabase\bin\Debug\EntityFramework.SqlServer.xml
+D:\C#II\Final\SmallDatabase\SmallDatabase\obj\Debug\SmallDatabase.csprojResolveAssemblyReference.cache
+D:\C#II\Final\SmallDatabase\SmallDatabase\obj\Debug\SmallDatabase.dll
+D:\C#II\Final\SmallDatabase\SmallDatabase\obj\Debug\SmallDatabase.pdb

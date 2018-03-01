@@ -1,0 +1,16 @@
+D:\C#II\Final\SmallDatabase\FindSupplier\bin\Debug\FindSupplier.exe.config
+D:\C#II\Final\SmallDatabase\FindSupplier\bin\Debug\FindSupplier.exe
+D:\C#II\Final\SmallDatabase\FindSupplier\bin\Debug\FindSupplier.pdb
+D:\C#II\Final\SmallDatabase\FindSupplier\bin\Debug\EntityFramework.dll
+D:\C#II\Final\SmallDatabase\FindSupplier\bin\Debug\EntityFramework.SqlServer.dll
+D:\C#II\Final\SmallDatabase\FindSupplier\bin\Debug\SmallDatabase.dll
+D:\C#II\Final\SmallDatabase\FindSupplier\bin\Debug\SmallDatabase.pdb
+D:\C#II\Final\SmallDatabase\FindSupplier\bin\Debug\EntityFramework.xml
+D:\C#II\Final\SmallDatabase\FindSupplier\bin\Debug\EntityFramework.SqlServer.xml
+D:\C#II\Final\SmallDatabase\FindSupplier\obj\Debug\FindSupplier.csprojResolveAssemblyReference.cache
+D:\C#II\Final\SmallDatabase\FindSupplier\obj\Debug\FindSupplier.SearchSupplier.resources
+D:\C#II\Final\SmallDatabase\FindSupplier\obj\Debug\FindSupplier.Properties.Resources.resources
+D:\C#II\Final\SmallDatabase\FindSupplier\obj\Debug\FindSupplier.csproj.GenerateResource.Cache
+D:\C#II\Final\SmallDatabase\FindSupplier\obj\Debug\FindSupplier.exe
+D:\C#II\Final\SmallDatabase\FindSupplier\obj\Debug\FindSupplier.pdb
+D:\C#II\Final\SmallDatabase\FindSupplier\obj\Debug\FindSupplier.ProductInfo.resources

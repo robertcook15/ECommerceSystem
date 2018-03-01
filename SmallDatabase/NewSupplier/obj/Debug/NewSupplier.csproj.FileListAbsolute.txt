@@ -1,0 +1,15 @@
+D:\C#II\Final\SmallDatabase\NewSupplier\bin\Debug\NewSupplier.exe.config
+D:\C#II\Final\SmallDatabase\NewSupplier\bin\Debug\NewSupplier.exe
+D:\C#II\Final\SmallDatabase\NewSupplier\bin\Debug\NewSupplier.pdb
+D:\C#II\Final\SmallDatabase\NewSupplier\bin\Debug\EntityFramework.dll
+D:\C#II\Final\SmallDatabase\NewSupplier\bin\Debug\EntityFramework.SqlServer.dll
+D:\C#II\Final\SmallDatabase\NewSupplier\bin\Debug\SmallDatabase.dll
+D:\C#II\Final\SmallDatabase\NewSupplier\bin\Debug\SmallDatabase.pdb
+D:\C#II\Final\SmallDatabase\NewSupplier\bin\Debug\EntityFramework.xml
+D:\C#II\Final\SmallDatabase\NewSupplier\bin\Debug\EntityFramework.SqlServer.xml
+D:\C#II\Final\SmallDatabase\NewSupplier\obj\Debug\NewSupplier.csprojResolveAssemblyReference.cache
+D:\C#II\Final\SmallDatabase\NewSupplier\obj\Debug\NewSupplier.ManageSuppliers.resources
+D:\C#II\Final\SmallDatabase\NewSupplier\obj\Debug\NewSupplier.Properties.Resources.resources
+D:\C#II\Final\SmallDatabase\NewSupplier\obj\Debug\NewSupplier.csproj.GenerateResource.Cache
+D:\C#II\Final\SmallDatabase\NewSupplier\obj\Debug\NewSupplier.exe
+D:\C#II\Final\SmallDatabase\NewSupplier\obj\Debug\NewSupplier.pdb
